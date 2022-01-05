@@ -1,3 +1,9 @@
+# UnityLearn_JuniorProgrammer_1:
+Здесь содержатся сцены, которые были подготовлены создателями курса Junior Programmer, в них я исправляла ошибки и добавляла фичи.  
+# Запуск:
+1.После скачивания проекта зайти в Unity.  
+2.Во вкладке Projects нажать ADD:  
+![image](https://user-images.githubusercontent.com/92053203/148236892-5b09d20b-4791-44db-aa30-f9d1d0625819.png)  
 # Управление:
  Challenge1 - управление вертолетом через кнопки WD  
  Challenge2 - управление собаками через пробел (Space)  
