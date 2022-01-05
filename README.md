@@ -7,7 +7,7 @@
 3.Выбрать папку UnityLearn_JuniorProgrammer_1:  
 ![image](https://user-images.githubusercontent.com/92053203/148237503-4a9cd0a4-28b8-4415-be62-655f8883792a.png)  
 4.В ней находится 6 папок, в каждой из которых есть сцены и ресурсы, которые были использованы при их создании:  
-![image](https://user-images.githubusercontent.com/92053203/148239077-aeb80e00-a2a4-43e5-8162-4d4bf672dc9c.png)
+![image](https://user-images.githubusercontent.com/92053203/148239370-5fa941dc-61da-4a91-9aa3-7c203feb86c7.png)
 # Управление в сценах:
 ПРИМЕЧАНИЕ: сцены не зависят друг от друга, это разные проекты.    
  Challenge1 - управление вертолетом через кнопки WD  
